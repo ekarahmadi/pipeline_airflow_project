@@ -1,4 +1,4 @@
-# Dissecting News About PILKADA 2024
+# Dissecting News About PILKADA JATENG 2024
 Understanding the differences between news portals regarding PILKADA2024
 
 ## Anggota Kelompok :
