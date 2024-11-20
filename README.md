@@ -1,5 +1,5 @@
-# Dissecting Public Opinion About PIlkada 2024
-Understanding how news about PILKADA influence public opinion on X
+# Dissecting News About PILKADA 2024
+Understanding the differences between news portals regarding PILKADA 2024
 
 ## Anggota Kelompok :
 - Luthfi Hanif (22/497890/TK/54589)
