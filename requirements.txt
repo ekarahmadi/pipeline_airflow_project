@@ -1,0 +1,9 @@
+pandas
+apache-airflow
+requests
+beautifulsoup4
+textblob
+psycopg2-binary
+sqlalchemy
+lxml
+clickhouse-connect
