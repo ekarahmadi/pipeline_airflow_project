@@ -9,4 +9,4 @@ Understanding the differences between news portals regarding PILKADA2024
 ## Links
 - [Presentation](https://youtu.be/L7gbojY3sE8)
 - [Colab Notebook](https://www.wikipedia.org/)
-- [Notion Blog](https://www.wikipedia.org/)
+- [Notion Blog](https://noiseless-jasmine-54a.notion.site/Dissecting-News-About-Central-Java-Candidates-of-Regional-Election-536104904ba247c38614726ccd95d054?pvs=4)
